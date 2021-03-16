@@ -1,5 +1,4 @@
 # Discrete Probability
-## Loaded Currency Exchange Dataset From Api - Includes Classified & Sorted Algorithms With Python
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/alicanakca) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/alicanakca_) 
